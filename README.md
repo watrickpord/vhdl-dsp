@@ -1,2 +1,2 @@
-# vhdl-dsp
+# VHDL DSP
 Simple DSP modules in VHDL
